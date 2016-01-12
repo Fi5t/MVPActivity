@@ -1,0 +1,2 @@
+# MVPActivity
+Android template activity
